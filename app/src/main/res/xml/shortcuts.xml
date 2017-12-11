@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="settings"
+        android:enabled="true"
+        android:icon="@drawable/icon"
+        android:shortcutShortLabel="@string/settings_short_name"
+        android:shortcutLongLabel="@string/settings_long_name"
+        android:shortcutDisabledMessage="@string/settings_disable_msg">
+    </shortcut>
+</shortcuts>
